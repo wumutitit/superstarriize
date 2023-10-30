@@ -6,5 +6,20 @@
             "theme": "glitter into gold",
             "inv": "<:c_grade:1126649406230384671> glitter into gold"
         }
-    ]
-}
+    ],
+    "GAGT_ST_B": [
+        {
+            "name": "<:c_grade:1167857473714131074> **SHOTARO** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/ST_B.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:c_grade:1167857473714131074> Get A Guitar"
+        }
+    ], 
+    "GAGT_ST_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **SHOTARO** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/ST_A.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:a_grade:1167857265802498179> Get A Guitar"
+        }
+    ],
