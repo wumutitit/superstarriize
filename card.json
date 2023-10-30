@@ -31,3 +31,11 @@
             "inv": "<:s_grade:1167857198127386797> Get A Guitar"
         }
     ],
+    "GAGT_ST_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **SHOTARO** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/ST_R.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:r_grade:1167857132432007199> Get A Guitar"
+        }
+    ],
