@@ -39,3 +39,163 @@
             "inv": "<:r_grade:1167857132432007199> Get A Guitar"
         }
     ],
+    "GAGT_ES_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **EUNSEOK** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/ES_C.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:c_grade:1167857473714131074> Get A Guitar"
+        }
+    ],
+    "GAGT_ES_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **EUNSEOK** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/ES_B.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:b_grade:1167857540156117042> Get A Guitar"
+        }
+    ],
+    "GAGT_ES_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **EUNSEOK** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/ES_A.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:a_grade:1167857265802498179> Get A Guitar"
+        }
+    ],
+    "GAGT_ES_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **EUNSEOK** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/ES_S.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:s_grade:1167857198127386797> Get A Guitar"
+        }
+    ],
+    "GAGT_ES_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **EUNSEOK** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/ES_R.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:r_grade:1167857132432007199> Get A Guitar"
+        }
+    ],
+    "GAGT_SC_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **SUNGCHAN** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/SC_C.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:c_grade:1167857473714131074> Get A Guitar"
+        }
+    ],
+    "GAGT_SC_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **SUNGCHAN** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/SC_B.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:b_grade:1167857540156117042> Get A Guitar"
+        }
+    ],
+    "GAGT_SC_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **SUNGCHAN** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/SC_A.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:a_grade:1167857265802498179> Get A Guitar"
+        }
+    ],
+    "GAGT_SC_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **SUNGCHAN** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/SC_S.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:s_grade:1167857198127386797> Get A Guitar"
+        }
+    ],
+    "GAGT_SC_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **SUNGCHAN** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/SC_R.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:r_grade:1167857132432007199> Get A Guitar"
+        }
+    ],
+    "GAGT_WB_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **WONBIN** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/WB_C.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:c_grade:1167857473714131074> Get A Guitar"
+        }
+    ],
+    "GAGT_WB_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **SUNGCHAN** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/WB_B.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:b_grade:1167857540156117042> Get A Guitar"
+        }
+    ],
+    "GAGT_WB_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **WONBIN** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/WB_A.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:a_grade:1167857265802498179> Get A Guitar"
+        }
+    ],
+    "GAGT_WB_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **WONBIN** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/WB_S.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:s_grade:1167857198127386797> Get A Guitar"
+        }
+    ],
+    "GAGT_WB_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **WONBIN** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/WB_R.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:r_grade:1167857132432007199> Get A Guitar"
+        }
+    ],
+    "GAGT_SH_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **SEUNGHAN** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/SH_C.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:c_grade:1167857473714131074> Get A Guitar"
+        }
+    ],
+    "GAGT_SH_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **SEUNGHAN** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/SH_B.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:b_grade:1167857540156117042> Get A Guitar"
+        }
+    ],
+    "GAGT_SH_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **SEUNGHAN** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/SH_A.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:a_grade:1167857265802498179> Get A Guitar"
+        }
+    ],
+    "GAGT_SH_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **SEUNGHAN** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/SH_S.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:s_grade:1167857198127386797> Get A Guitar"
+        }
+    ],
+    "GAGT_SH_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **SEUNGHAN** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/SH_R.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:r_grade:1167857132432007199> Get A Guitar"
+        }
+    ],
