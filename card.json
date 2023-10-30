@@ -199,3 +199,84 @@
             "inv": "<:r_grade:1167857132432007199> Get A Guitar"
         }
     ],
+    "GAGT_SO_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **SOHEE** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/SO_C.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:c_grade:1167857473714131074> Get A Guitar"
+        }
+    ],
+    "GAGT_SO_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **SOHEE** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/SO_B.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:b_grade:1167857540156117042> Get A Guitar"
+        }
+    ],
+    "GAGT_SO_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **SOHEE** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/SO_A.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:a_grade:1167857265802498179> Get A Guitar"
+        }
+    ],
+    "GAGT_SO_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **SOHEE** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/SO_S.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:s_grade:1167857198127386797> Get A Guitar"
+        }
+    ],
+    "GAGT_SO_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **SOHEE** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/SO_R.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:r_grade:1167857132432007199> Get A Guitar"
+        }
+    ],
+    "GAGT_AT_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **ANTON** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/AT_C.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:c_grade:1167857473714131074> Get A Guitar"
+        }
+    ],
+    "GAGT_AT_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **ANTON** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/AT_B.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:b_grade:1167857540156117042> Get A Guitar"
+        }
+    ],
+    "GAGT_AT_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **ANTON** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/AT_A.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:a_grade:1167857265802498179> Get A Guitar"
+        }
+    ],
+    "GAGT_AT_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **ANTON** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/AT_S.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:s_grade:1167857198127386797> Get A Guitar"
+        }
+    ],
+    "GAGT_AT_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **ANTON** Get A Guitar",
+            "image": "https://superstarriize.sirv.com/get-a-guitar/AT_R.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:r_grade:1167857132432007199> Get A Guitar"
+        }
+    ]
+}
