@@ -1,0 +1,25 @@
+    "set": [
+        {
+            "GAGT_SHOTARO_LIMITED": "https://ssrz-resources.sirv.com/ssriize/resources/lobby_pfp/limited/get-a-guitar/SHOTARO.png?format=png",
+            "GAGT_SHOTARO_LIMITED_TEXT": "`Limited` **SHOTARO** Get A Guitar Profile Picture",
+"GAGT_EUNSEOK_LIMITED": "https://ssrz-resources.sirv.com/ssriize/resources/lobby_pfp/limited/get-a-guitar/EUNSEOK.png?format=png",
+            "GAGT_EUNSEOK_LIMITED_TEXT": "`Limited` **EUNSEOK** Get A Guitar Picture",
+"GAGT_SUNGCHAN_LIMITED": "https://ssrz-resources.sirv.com/ssriize/resources/lobby_pfp/limited/get-a-guitar/SUNGCHAN.png?format=png",
+            "GAGT_SUNGCHAN_LIMITED_TEXT": "`Limited` **SUNGCHAN** Get A Guitar Profile Picture",    
+"GAGT_WONBIN_LIMITED": "https://ssrz-resources.sirv.com/ssriize/resources/lobby_pfp/limited/get-a-guitar/WONBIN.png?format=png",
+            "GAGT_WONBIN_LIMITED_TEXT": "`Limited` **WONBIN** Get A Guitar Profile Picture",            
+"GAGT_SEUNGHAN_LIMITED": "https://ssrz-resources.sirv.com/ssriize/resources/lobby_pfp/limited/get-a-guitar/SEUNGHAN.png?format=png",
+            "GAGT_SEUNGHAN_LIMITED_TEXT": "`Limited` **SEUNGHAN** Get A Guitar Profile Picture",            
+"GAGT_SOHEE_LIMITED": "https://ssrz-resources.sirv.com/ssriize/resources/lobby_pfp/limited/get-a-guitar/SOHEE.png?format=png",
+            "GAGT_SOHEE_LIMITED_TEXT": "`Limited` **SOHEE** Get A Guitar Profile Picture",            
+"GAGT_ANTON_LIMITED": "https://ssrz-resources.sirv.com/ssriize/resources/lobby_pfp/limited/get-a-guitar/ANTON.png?format=png",
+            "GAGT_ANTON_LIMITED_TEXT": "`Limited` **ANTON** Get A Guitar Profile Picture",            
+            "KJW_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_KJW_WP.png?format=png",
+            "KJW_TEXT": "`Event` **KIM JIWOONG** Wallpaper",
+            "SHB_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_SHB_WP.png?format=png",
+            "SHB_TEXT": "`Event` **SUNG HANBIN** Wallpaper",
+            "SMT_EVENT": "https://mberierd.sirv.com/ssk-resource/wallpaper/event/EVENT_SMT_WP.png?format=png",
+            "SMT_TEXT": "`Event` **SEOK MATTHEW** Wallpaper"
+        }
+    ]
+}
