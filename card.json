@@ -278,5 +278,285 @@
             "theme": "Get A Guitar",
             "inv": "<:r_grade:1167857132432007199> Get A Guitar"
         }
+    ],
+    "WERI_ST_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **SHOTARO** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/ST_C.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:c_grade:1167857473714131074> Get A Guitar"
+        }
+    ],
+    "WERI_ST_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **SHOTARO** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/ST_B.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:b_grade:1167857540156117042> Get A Guitar"
+        }
+    ],
+    "WERI_ST_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **SHOTARO** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/ST_A.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:a_grade:1167857265802498179> Get A Guitar"
+        }
+    ],
+    "WERI_ST_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **SHOTARO** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/ST_S.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:s_grade:1167857198127386797> Get A Guitar"
+        }
+    ],
+    "WERI_ST_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **SHOTARO** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/ST_R.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:r_grade:1167857132432007199> Get A Guitar"
+        }
+    ],
+    "WERI_ES_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **EUNSEOK** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/ES_C.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:c_grade:1167857473714131074> Get A Guitar"
+        }
+    ],
+    "WERI_ES_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **EUNSEOK** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/ES_B.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:b_grade:1167857540156117042> Get A Guitar"
+        }
+    ],
+    "WERI_ES_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **EUNSEOK** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/ES_A.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:a_grade:1167857265802498179> Get A Guitar"
+        }
+    ],
+    "WERI_ES_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **EUNSEOK** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/ES_S.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:s_grade:1167857198127386797> Get A Guitar"
+        }
+    ],
+    "WERI_ES_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **EUNSEOK** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/ES_R.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:r_grade:1167857132432007199> Get A Guitar"
+        }
+    ],
+    "WERI_SC_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **SUNGCHAN** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/SC_C.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:c_grade:1167857473714131074> Get A Guitar"
+        }
+    ],
+    "WERI_SC_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **SUNGCHAN** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/SC_B.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:b_grade:1167857540156117042> Get A Guitar"
+        }
+    ],
+    "WERI_SC_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **SUNGCHAN** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/SC_A.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:a_grade:1167857265802498179> Get A Guitar"
+        }
+    ],
+    "WERI_SC_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **SUNGCHAN** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/SC_S.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:s_grade:1167857198127386797> Get A Guitar"
+        }
+    ],
+    "WERI_SC_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **SUNGCHAN** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/SC_R.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:r_grade:1167857132432007199> Get A Guitar"
+        }
+    ],
+    "WERI_WB_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **WONBIN** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/WB_C.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:c_grade:1167857473714131074> Get A Guitar"
+        }
+    ],
+    "WERI_WB_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **WONBIN** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/WB_B.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:b_grade:1167857540156117042> Get A Guitar"
+        }
+    ],
+    "WERI_WB_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **WONBIN** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/WB_A.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:a_grade:1167857265802498179> Get A Guitar"
+        }
+    ],
+    "WERI_WB_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **WONBIN** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/WB_S.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:s_grade:1167857198127386797> Get A Guitar"
+        }
+    ],
+    "WERI_WB_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **WONBIN** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/WB_R.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:r_grade:1167857132432007199> Get A Guitar"
+        }
+    ],
+    "WERI_SH_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **SEUNGHAN** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/SH_C.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:c_grade:1167857473714131074> Get A Guitar"
+        }
+    ],
+    "WERI_SH_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **SEUNGHAN** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/SH_B.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:b_grade:1167857540156117042> Get A Guitar"
+        }
+    ],
+    "WERI_SH_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **SEUNGHAN** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/SH_A.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:a_grade:1167857265802498179> Get A Guitar"
+        }
+    ],
+    "WERI_SH_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **SEUNGHAN** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/SH_S.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:s_grade:1167857198127386797> Get A Guitar"
+        }
+    ],
+    "WERI_SH_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **SEUNGHAN** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/SH_R.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:r_grade:1167857132432007199> Get A Guitar"
+        }
+    ],
+    "WERI_SO_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **SOHEE** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/SO_C.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:c_grade:1167857473714131074> Get A Guitar"
+        }
+    ],
+    "WERI_SO_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **SOHEE** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/SO_B.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:b_grade:1167857540156117042> Get A Guitar"
+        }
+    ],
+    "WERI_SO_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **SOHEE** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/SO_A.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:a_grade:1167857265802498179> Get A Guitar"
+        }
+    ],
+    "WERI_SO_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **SOHEE** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/SO_S.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:s_grade:1167857198127386797> Get A Guitar"
+        }
+    ],
+    "WERI_SO_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **SOHEE** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/SO_R.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:r_grade:1167857132432007199> Get A Guitar"
+        }
+    ],
+    "WERI_AT_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **ANTON** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/AT_C.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:c_grade:1167857473714131074> Get A Guitar"
+        }
+    ],
+    "WERI_AT_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **ANTON** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/AT_B.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:b_grade:1167857540156117042> Get A Guitar"
+        }
+    ],
+    "WERI_AT_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **ANTON** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/AT_A.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:a_grade:1167857265802498179> Get A Guitar"
+        }
+    ],
+    "WERI_AT_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **ANTON** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/AT_S.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:s_grade:1167857198127386797> Get A Guitar"
+        }
+    ],
+    "WERI_AT_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **ANTON** We RIIZE",
+            "image": "https://superstarriize.sirv.com/we_riize/AT_R.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:r_grade:1167857132432007199> Get A Guitar"
+        }
     ]
 }
