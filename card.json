@@ -558,5 +558,21 @@
             "theme": "Get A Guitar",
             "inv": "<:r_grade:1167857132432007199> Get A Guitar"
         }
+    ],
+    "seokkie": [
+        {
+            "name": "<:r_grade:1167857132432007199> **EUNSEOK** Booster Exclusive",
+            "image": "https://superstarriize.sirv.com/booster_exclusive/hwannie_1.png?format=png",
+            "theme": "Booster Exclusive",
+            "inv": "<:r_grade:1167857132432007199> Booster Exclusive"
+        }
+    ],
+    "wo_card": [
+        {
+            "name": "<:r_grade:1167857132432007199> **WONBIN** Booster Exclusive",
+            "image": "https://superstarriize.sirv.com/booster_exclusive/juyo_1.png?format=png",
+            "theme": "Booster Exclusive",
+            "inv": "<:r_grade:1167857132432007199> Booster Exclusive"
+        }
     ]
 }
