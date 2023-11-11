@@ -574,5 +574,45 @@
             "theme": "Booster Exclusive",
             "inv": "<:r_grade:1167857132432007199> Booster Exclusive"
         }
+    ],
+    "IMYH_ST_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **SHOTARO** in my heart",
+            "image": "https://superstarriize.sirv.com/in_my_heart/ST_C.png?format=png",
+            "theme": "in my heart",
+            "inv": "<:c_grade:1167857473714131074> in my heart"
+        }
+    ],
+    "IMYH_ST_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **SHOTARO** in my heart",
+            "image": "https://superstarriize.sirv.com/in_my_heart/ST_B.png?format=png",
+            "theme": "in my heart",
+            "inv": "<:b_grade:1167857540156117042> in my heart"
+        }
+    ],
+    "IMYH_ST_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **SHOTARO** in my heart",
+            "image": "https://superstarriize.sirv.com/in_my_heart/ST_A.png?format=png",
+            "theme": "in my heart",
+            "inv": "<:a_grade:1167857265802498179> in my heart"
+        }
+    ],
+    "IMYH_ST_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **SHOTARO** in my heart",
+            "image": "https://superstarriize.sirv.com/in_my_heart/ST_S.png?format=png",
+            "theme": "in my heart",
+            "inv": "<:s_grade:1167857198127386797> in my heart"
+        }
+    ],
+    "IMYH_ST_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **SHOTARO** in my heart",
+            "image": "https://superstarriize.sirv.com/in_my_heart/ST_R.png?format=png",
+            "theme": "Get A Guitar",
+            "inv": "<:r_grade:1167857132432007199> Get A Guitar"
+        }
     ]
 }
