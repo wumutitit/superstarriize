@@ -611,8 +611,48 @@
         {
             "name": "<:r_grade:1167857132432007199> **SHOTARO** in my heart",
             "image": "https://superstarriize.sirv.com/in_my_heart/ST_R.png?format=png",
-            "theme": "Get A Guitar",
-            "inv": "<:r_grade:1167857132432007199> Get A Guitar"
+            "theme": "in my heart",
+            "inv": "<:r_grade:1167857132432007199> in my heart"
+        }
+    ],
+    "IMYH_ES_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **EUNSEOK** in my heart",
+            "image": "https://superstarriize.sirv.com/in_my_heart/ES_C.png?format=png",
+            "theme": "in my heart",
+            "inv": "<:c_grade:1167857473714131074> in my heart"
+        }
+    ],
+    "IMYH_ES_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **EUNSEOK** in my heart",
+            "image": "https://superstarriize.sirv.com/in_my_heart/ES_B.png?format=png",
+            "theme": "in my heart",
+            "inv": "<:b_grade:1167857540156117042> in my heart"
+        }
+    ],
+    "IMYH_ES_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **EUNSEOK** in my heart",
+            "image": "https://superstarriize.sirv.com/in_my_heart/ES_A.png?format=png",
+            "theme": "in my heart",
+            "inv": "<:a_grade:1167857265802498179> in my heart"
+        }
+    ],
+    "IMYH_ES_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **EUNSEOK** in my heart",
+            "image": "https://superstarriize.sirv.com/in_my_heart/ES_S.png?format=png",
+            "theme": "in my heart",
+            "inv": "<:s_grade:1167857198127386797> in my heart"
+        }
+    ],
+    "IMYH_ES_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **EUNSEOK** in my heart",
+            "image": "https://superstarriize.sirv.com/in_my_heart/ES_R.png?format=png",
+            "theme": "in my heart",
+            "inv": "<:r_grade:1167857132432007199> in my heart"
         }
     ]
 }
