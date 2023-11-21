@@ -13,8 +13,17 @@
       "in_LIMITED": "https://ssrz-resources.sirv.com/ssriize/resources/lobby_wallpapers/exclusive/wonbin_1.png?format=png",
       "in_TEXT": "`Exclusive` **WONBIN** Booster Exclusive Wallpaper",
 
-      "INMYHEART_LIMITED": "https://ssrz-resources.sirv.com/ssriize/resources/lobby_wallpapers/limited/in_my_heart_11112023.png?format=png",
-      "INMYHEART_TEXT": "`Limited` **in my heart** Wallpaper"      
+      "DDORIDAY1_LIMITED": "https://ssrz-resources.sirv.com/ssriize/resources/lobby_wallpapers/event/ddori_1.ng?format=png",
+      "DDORIDAY1_TEXT": "`Event` **ddori day#1** Wallpaper",    
+      
+      "DDORIDAY2_LIMITED": "https://ssrz-resources.sirv.com/ssriize/resources/lobby_wallpapers/event/ddori_2.png?format=png",
+      "DDORIDAY2_TEXT": "`Event` **ddori day#2* Wallpaper", 
+      
+      "TALKSAXY_LIMITED": "https://ssrz-resources.sirv.com/ssriize/resources/lobby_wallpapers/limited/talk_saxy_11212023.png?format=png",
+      "TALKSAXY_TEXT": "`Limited` **Talk Saxy** Wallpaper",     
+
+      "SIREN_LIMITED": "https://ssrz-resources.sirv.com/ssriize/resources/lobby_wallpapers/limited/siren_11212023.png?format=png",
+      "SIREN_TEXT": "`Limited` **Siren** Wallpaper"      
       
       
       }
