@@ -894,5 +894,44 @@
             "theme": "ddori day",
             "inv": "<:r_grade:1167857132432007199> ddori day"
         }
-    ]
-}
+    ],
+    "SIRE_ST_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **SHOTARO** Siren",
+            "image": "https://superstarriize.sirv.com/siren/ST_C.png?format=png",
+            "theme": "Siren",
+            "inv": "<:c_grade:1167857473714131074> Siren"
+        }
+    ],
+    "SIRE_ST_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **SHOTARO** Siren",
+            "image": "https://superstarriize.sirv.com/siren/ST_B.png?format=png",
+            "theme": "Siren",
+            "inv": "<:b_grade:1167857540156117042> Siren"
+        }
+    ],
+    "SIRE_ST_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **SHOTARO** Siren",
+            "image": "https://superstarriize.sirv.com/siren/ST_A.png?format=png",
+            "theme": "Siren",
+            "inv": "<:a_grade:1167857265802498179> Siren"
+        }
+    ],
+    "SIRE_ST_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **SHOTARO** Siren",
+            "image": "https://superstarriize.sirv.com/siren/ST_S.png?format=png",
+            "theme": "Siren",
+            "inv": "<:s_grade:1167857198127386797> Siren"
+        }
+    ],
+    "SIRE_ST_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **SHOTARO** Siren",
+            "image": "https://superstarriize.sirv.com/siren/ST_R.png?format=png",
+            "theme": "Siren",
+            "inv": "<:r_grade:1167857132432007199> Siren"
+        }
+    ],
