@@ -1055,43 +1055,124 @@
             "inv": "<:r_grade:1167857132432007199> Siren"
         }
     ],
-    "SIRE_WB_C": [
+    "SIRE_SH_C": [
         {
-            "name": "<:c_grade:1167857473714131074> **WONBIN** Siren",
-            "image": "https://superstarriize.sirv.com/siren/WB_C.png?format=png",
+            "name": "<:c_grade:1167857473714131074> **SEUNGHAN** Siren",
+            "image": "https://superstarriize.sirv.com/siren/SH_C.png?format=png",
             "theme": "Siren",
             "inv": "<:c_grade:1167857473714131074> Siren"
         }
     ],
-    "SIRE_WB_B": [
+    "SIRE_SH_B": [
         {
-            "name": "<:b_grade:1167857540156117042> **WONBIN** Siren",
-            "image": "https://superstarriize.sirv.com/siren/WB_B.png?format=png",
+            "name": "<:b_grade:1167857540156117042> **SEUNGHAN** Siren",
+            "image": "https://superstarriize.sirv.com/siren/SH_B.png?format=png",
             "theme": "Siren",
             "inv": "<:b_grade:1167857540156117042> Siren"
         }
     ],
-    "SIRE_WB_A": [
+    "SIRE_SH_A": [
         {
-            "name": "<:a_grade:1167857265802498179> **WONBIN** Siren",
-            "image": "https://superstarriize.sirv.com/siren/WB_A.png?format=png",
+            "name": "<:a_grade:1167857265802498179> **SEUNGHAN** Siren",
+            "image": "https://superstarriize.sirv.com/siren/SH_A.png?format=png",
             "theme": "Siren",
             "inv": "<:a_grade:1167857265802498179> Siren"
         }
     ],
-    "SIRE_WB_S": [
+    "SIRE_SH_S": [
         {
-            "name": "<:s_grade:1167857198127386797> **WONBIN** Siren",
-            "image": "https://superstarriize.sirv.com/siren/WB_S.png?format=png",
+            "name": "<:s_grade:1167857198127386797> **SEUNGHAN** Siren",
+            "image": "https://superstarriize.sirv.com/siren/SH_S.png?format=png",
             "theme": "Siren",
             "inv": "<:s_grade:1167857198127386797> Siren"
         }
     ],
     "SIRE_SH_R": [
         {
-            "name": "<:r_grade:1167857132432007199> **WONBIN** Siren",
-            "image": "https://superstarriize.sirv.com/siren/WB_R.png?format=png",
+            "name": "<:r_grade:1167857132432007199> **SEUNGHAN** Siren",
+            "image": "https://superstarriize.sirv.com/siren/SH_R.png?format=png",
             "theme": "Siren",
             "inv": "<:r_grade:1167857132432007199> Siren"
         }
     ],
+    "SIRE_SO_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **SOHEE** Siren",
+            "image": "https://superstarriize.sirv.com/siren/SO_C.png?format=png",
+            "theme": "Siren",
+            "inv": "<:c_grade:1167857473714131074> Siren"
+        }
+    ],
+    "SIRE_SO_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **SOHEE** Siren",
+            "image": "https://superstarriize.sirv.com/siren/SO_B.png?format=png",
+            "theme": "Siren",
+            "inv": "<:b_grade:1167857540156117042> Siren"
+        }
+    ],
+    "SIRE_SO_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **SOHEE** Siren",
+            "image": "https://superstarriize.sirv.com/siren/SO_A.png?format=png",
+            "theme": "Siren",
+            "inv": "<:a_grade:1167857265802498179> Siren"
+        }
+    ],
+    "SIRE_SO_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **SOHEE** Siren",
+            "image": "https://superstarriize.sirv.com/siren/SO_S.png?format=png",
+            "theme": "Siren",
+            "inv": "<:s_grade:1167857198127386797> Siren"
+        }
+    ],
+    "SIRE_SO_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **SOHEEE** Siren",
+            "image": "https://superstarriize.sirv.com/siren/SO_R.png?format=png",
+            "theme": "Siren",
+            "inv": "<:r_grade:1167857132432007199> Siren"
+        }
+    ],
+    "SIRE_AT_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **ANTON** Siren",
+            "image": "https://superstarriize.sirv.com/siren/AT_C.png?format=png",
+            "theme": "Siren",
+            "inv": "<:c_grade:1167857473714131074> Siren"
+        }
+    ],
+    "SIRE_AT_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **ANTON** Siren",
+            "image": "https://superstarriize.sirv.com/siren/AT_B.png?format=png",
+            "theme": "Siren",
+            "inv": "<:b_grade:1167857540156117042> Siren"
+        }
+    ],
+    "SIRE_AT_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **ANTON** Siren",
+            "image": "https://superstarriize.sirv.com/siren/AT_A.png?format=png",
+            "theme": "Siren",
+            "inv": "<:a_grade:1167857265802498179> Siren"
+        }
+    ],
+    "SIRE_AT_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **ANTON** Siren",
+            "image": "https://superstarriize.sirv.com/siren/AT_S.png?format=png",
+            "theme": "Siren",
+            "inv": "<:s_grade:1167857198127386797> Siren"
+        }
+    ],
+    "SIRE_AT_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **ANTON** Siren",
+            "image": "https://superstarriize.sirv.com/siren/AT_R.png?format=png",
+            "theme": "Siren",
+            "inv": "<:r_grade:1167857132432007199> Siren"
+        }
+    ]
+}
