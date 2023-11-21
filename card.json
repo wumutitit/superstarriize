@@ -1377,80 +1377,80 @@
     ],
     "TLSX_SO_C": [
         {
-            "name": "<:c_grade:1167857473714131074> **WONBIN** Talk Saxy",
-            "image": "https://superstarriize.sirv.com/talk_saxy/WB_C.png?format=png",
+            "name": "<:c_grade:1167857473714131074> **SOHEE** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/SO_C.png?format=png",
             "theme": "Talk Saxy",
             "inv": "<:c_grade:1167857473714131074> Talk Saxy"
         }
     ],
     "TLSX_SO_B": [
         {
-            "name": "<:b_grade:1167857540156117042> **WONBIN** Talk Saxy",
-            "image": "https://superstarriize.sirv.com/talk_saxy/WB_B.png?format=png",
+            "name": "<:b_grade:1167857540156117042> **SOHEE** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/SO_B.png?format=png",
             "theme": "Talk Saxy",
             "inv": "<:b_grade:1167857540156117042> Talk Saxy"
         }
     ],
     "TLSX_SO_A": [
         {
-            "name": "<:a_grade:1167857265802498179> **WONBIN** Talk Saxy",
-            "image": "https://superstarriize.sirv.com/talk_saxy/WB_A.png?format=png",
+            "name": "<:a_grade:1167857265802498179> **SOHEE** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/SO_A.png?format=png",
             "theme": "Talk Saxy",
             "inv": "<:a_grade:1167857265802498179> Talk Saxy"
         }
     ],
     "TLSX_SO_S": [
         {
-            "name": "<:s_grade:1167857198127386797> **WONBIN** Talk Saxy",
-            "image": "https://superstarriize.sirv.com/talk_saxy/WB_S.png?format=png",
+            "name": "<:s_grade:1167857198127386797> **SOHEE** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/SO_S.png?format=png",
             "theme": "Talk Saxy",
             "inv": "<:s_grade:1167857198127386797> Talk Saxy"
         }
     ],
     "TLSX_SO_R": [
         {
-            "name": "<:r_grade:1167857132432007199> **WONBIN** Talk Saxy",
-            "image": "https://superstarriize.sirv.com/talk_saxy/WB_R.png?format=png",
+            "name": "<:r_grade:1167857132432007199> **SOHEE** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/SO_R.png?format=png",
             "theme": "Talk Saxy",
             "inv": "<:r_grade:1167857132432007199> Talk Saxy"
         }
     ],
     "TLSX_AT_C": [
         {
-            "name": "<:c_grade:1167857473714131074> **WONBIN** Talk Saxy",
-            "image": "https://superstarriize.sirv.com/talk_saxy/WB_C.png?format=png",
+            "name": "<:c_grade:1167857473714131074> **ANTON** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/AT_C.png?format=png",
             "theme": "Talk Saxy",
             "inv": "<:c_grade:1167857473714131074> Talk Saxy"
         }
     ],
     "TLSX_AT_B": [
         {
-            "name": "<:b_grade:1167857540156117042> **WONBIN** Talk Saxy",
-            "image": "https://superstarriize.sirv.com/talk_saxy/WB_B.png?format=png",
+            "name": "<:b_grade:1167857540156117042> **ANTON** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/AT_B.png?format=png",
             "theme": "Talk Saxy",
             "inv": "<:b_grade:1167857540156117042> Talk Saxy"
         }
     ],
     "TLSX_AT_A": [
         {
-            "name": "<:a_grade:1167857265802498179> **WONBIN** Talk Saxy",
-            "image": "https://superstarriize.sirv.com/talk_saxy/WB_A.png?format=png",
+            "name": "<:a_grade:1167857265802498179> **ANTON** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/AT_A.png?format=png",
             "theme": "Talk Saxy",
             "inv": "<:a_grade:1167857265802498179> Talk Saxy"
         }
     ],
     "TLSX_AT_S": [
         {
-            "name": "<:s_grade:1167857198127386797> **WONBIN** Talk Saxy",
-            "image": "https://superstarriize.sirv.com/talk_saxy/WB_S.png?format=png",
+            "name": "<:s_grade:1167857198127386797> **ANTON** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/AT_S.png?format=png",
             "theme": "Talk Saxy",
             "inv": "<:s_grade:1167857198127386797> Talk Saxy"
         }
     ],
     "TLSX_AT_R": [
         {
-            "name": "<:r_grade:1167857132432007199> **WONBIN** Talk Saxy",
-            "image": "https://superstarriize.sirv.com/talk_saxy/WB_R.png?format=png",
+            "name": "<:r_grade:1167857132432007199> **ANTON** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/AT_R.png?format=png",
             "theme": "Talk Saxy",
             "inv": "<:r_grade:1167857132432007199> Talk Saxy"
         }
