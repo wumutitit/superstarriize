@@ -854,5 +854,45 @@
             "theme": "in my heart",
             "inv": "<:r_grade:1167857132432007199> in my heart"
         }
+    ],
+    "DRDY_SO_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **SOHEE** ddori day",
+            "image": "https://superstarriize.sirv.com/event/birthday/ddorri_day/SO_C.png?format=png",
+            "theme": "ddori day",
+            "inv": "<:c_grade:1167857473714131074> ddori day"
+        }
+    ],
+    "DRDY_SO_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **SOHEE** ddori day",
+            "image": "https://superstarriize.sirv.com/event/birthday/ddorri_day/SO_B.png?format=png",
+            "theme": "ddori day",
+            "inv": "<:b_grade:1167857540156117042> ddori day"
+        }
+    ],
+    "DRDY_SO_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **SOHEE** ddori day",
+            "image": "https://superstarriize.sirv.com/event/birthday/ddorri_day/SO_C.png?format=png",
+            "theme": "ddori day",
+            "inv": "<:a_grade:1167857265802498179> ddori day"
+        }
+    ],
+    "DRDY_SO_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **SOHEE** ddori day",
+            "image": "https://superstarriize.sirv.com/event/birthday/ddorri_day/SO_C.png?format=png",
+            "theme": "ddori day",
+            "inv": "<:s_grade:1167857198127386797> ddori day"
+        }
+    ],
+    "DRDY_SO_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **SOHEE** ddori day",
+            "image": "https://superstarriize.sirv.com/event/birthday/ddorri_day/SO_C.png?format=png",
+            "theme": "ddori day",
+            "inv": "<:r_grade:1167857132432007199> ddori day"
+        }
     ]
 }
