@@ -1174,5 +1174,84 @@
             "theme": "Siren",
             "inv": "<:r_grade:1167857132432007199> Siren"
         }
-    ]
-}
+    ],
+    "TLSX_ST_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **SHOTARO** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/ST_C.png?format=png",
+            "theme": "Talk Saxy",
+            "inv": "<:c_grade:1167857473714131074> Talk Saxy"
+        }
+    ],
+    "TLSX_ST_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **SHOTARO** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/ST_B.png?format=png",
+            "theme": "Talk Saxy",
+            "inv": "<:b_grade:1167857540156117042> Talk Saxy"
+        }
+    ],
+    "TLSX_ST_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **SHOTARO** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/ST_A.png?format=png",
+            "theme": "Talk Saxy",
+            "inv": "<:a_grade:1167857265802498179> Talk Saxy"
+        }
+    ],
+    "TLSX_ST_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **SHOTARO** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/ST_S.png?format=png",
+            "theme": "Talk Saxy",
+            "inv": "<:s_grade:1167857198127386797> Talk Saxy"
+        }
+    ],
+    "TLSX_ST_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **SHOTARO** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/ST_R.png?format=png",
+            "theme": "Talk Saxy",
+            "inv": "<:r_grade:1167857132432007199> Talk Saxy"
+        }
+    ],
+    "TLSX_ES_C": [
+        {
+            "name": "<:c_grade:1167857473714131074> **EUNSEOK** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/ES_C.png?format=png",
+            "theme": "Talk Saxy",
+            "inv": "<:c_grade:1167857473714131074> Talk Saxy"
+        }
+    ],
+    "TLSX_ES_B": [
+        {
+            "name": "<:b_grade:1167857540156117042> **EUNSEOK** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/ES_B.png?format=png",
+            "theme": "Talk Saxy",
+            "inv": "<:b_grade:1167857540156117042> Talk Saxy"
+        }
+    ],
+    "TLSX_ES_A": [
+        {
+            "name": "<:a_grade:1167857265802498179> **EUNSEOK** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/ES_A.png?format=png",
+            "theme": "Talk Saxy",
+            "inv": "<:a_grade:1167857265802498179> Talk Saxy"
+        }
+    ],
+    "TLSX_ES_S": [
+        {
+            "name": "<:s_grade:1167857198127386797> **EUNSEOK** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/ES_S.png?format=png",
+            "theme": "Talk Saxy",
+            "inv": "<:s_grade:1167857198127386797> Talk Saxy"
+        }
+    ],
+    "TLSX_ES_R": [
+        {
+            "name": "<:r_grade:1167857132432007199> **EUNSEOK** Talk Saxy",
+            "image": "https://superstarriize.sirv.com/talk_saxy/ES_R.png?format=png",
+            "theme": "Talk Saxy",
+            "inv": "<:r_grade:1167857132432007199> Talk Saxy"
+        }
+    ],
